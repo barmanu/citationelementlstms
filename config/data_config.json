@@ -1,0 +1,6 @@
+{
+  "input_dir": "/Users/barmanu/Downloads/ParsCit-master/crfpp/traindata/data/citations/only_cora/",
+  "output_dir": "data/",
+  "start_file": "data.csv",
+  "google_vec": true
+}

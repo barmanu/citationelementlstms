@@ -1,0 +1,1 @@
+rm -rf /nlp/exps/data/*.h5 /nlp/exps/data/*train* /nlp/exps/data/*test* /nlp/exps/data/*.json
